@@ -11,6 +11,7 @@ Matthijs
 | 02-10-2018 | 5 uur 15 min  |   Thuis    | Begonnen met werken aan de server software. Authenticatie is af. REST-server werkt. |
 | 03-10-2018 | 1 uur 00 min  |   Thuis    | Server: telefoonverificatie via Nexmo en bijbehorende documentatie bijgewerkt.      |
 | 04-10-2018 | 3 uur 30 min  |   Thuis    | Server: begonnen aan accounts resource en serialisatie implementatie.               |
+| 05-10-2018 | 100 min       | Lokaal 107 | Overleg en verder met de server software. Ook plannen maken voor een SQL database.  |
 
 Koen
 
