@@ -13,7 +13,7 @@ Matthijs
 | 04-10-2018 | 3 uur 30 min  |   Thuis    | Server: begonnen aan accounts resource en serialisatie implementatie.               |
 | 05-10-2018 | 100 min       | Lokaal 107 | Overleg en verder met de server software. Ook plannen maken voor een SQL database.  |
 | 05-10-2018 | 2 uur 00 min  |   Thuis    | Begonnen met de app: networking client en design van de WelcomeActivity.            |
-| 05-10-2018 | 5 uur 00 min  |   Thuis    | App: WelcomeActivity af en Login systeem af. Server: bugfix met de login + revert naar JDK 1.7 + configureerbaar adres/poort. Server software opgezet op VPS en een subdomein aangemaakt (api.hypothermic.nl). |
+| 07-10-2018 | 5 uur 00 min  |   Thuis    | App: WelcomeActivity af en Login systeem af. Server: bugfix met de login + revert naar JDK 1.7 + configureerbaar adres/poort. Server software opgezet op VPS en een subdomein aangemaakt (api.hypothermic.nl). |
 
 Koen
 
