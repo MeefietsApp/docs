@@ -16,6 +16,8 @@ Matthijs
 | 07-10-2018 | 5 uur 00 min  |   Thuis    | App: WelcomeActivity af en Login systeem af. Server: bugfix met de login + revert naar JDK 1.7 + configureerbaar adres/poort. Server software opgezet op VPS en een subdomein aangemaakt (api.hypothermic.nl). |
 | 08-10-2018 | 4 uur 30 min  |   Thuis    | App: Registreren en verificatie systeem gemaakt met bijhorende activities. Server: hotfix met Posix FS permissies. |
 | 09-10-2018 | 4 uur 00 min  |   Thuis    | App: onthoud gebruiker's credentials + auto login, forceer wit thema, hash wachtwoord bij registreren en inloggen, foutmelding als server onbereikbaar is, FeedActivity fragment implementatie met navigation bar. |
+| 09-10-2018 | 30 min        | Lokaal 107 | Word-document opstellen met benodigde koppen, etc. |
+| 10-10-2018 | 5 uur 30 min  |   Thuis    | App: accounts tab, onderzoeken waarom de serialisatie niet werkt + oplossen van dit probleem. (zie deelonderwerp) |
 
 Koen
 
