@@ -19,6 +19,7 @@ Matthijs
 | 09-10-2018 | 30 min        | Lokaal 107 | Word-document opstellen met benodigde koppen, etc. |
 | 10-10-2018 | 5 uur 30 min  |   Thuis    | App: accounts tab, onderzoeken waarom de serialisatie niet werkt + oplossen van dit probleem. (zie deelonderwerp) Ook evenementen recycler/cardview in HomeFragment met handige adapter. App&server: event classes aangemaakt.|
 | 11-10-2018 | 2 uur 00 min  |   Thuis    | App: events implementatie volgens spec-V2; inclusief reactive adapter + layout. En bugfixes. |
+| 12-10-2018 | 100 min       | Lokaal 107 | Server: begonnen aan events implementatie. Docs: visio tekening gemaakt van serialisatie. |
 
 Koen
 
