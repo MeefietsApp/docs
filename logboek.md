@@ -20,7 +20,8 @@ Matthijs
 | 10-10-2018 | 5 uur 30 min  |   Thuis    | App: accounts tab, onderzoeken waarom de serialisatie niet werkt + oplossen van dit probleem. (zie deelonderwerp) Ook evenementen recycler/cardview in HomeFragment met handige adapter. App&server: event classes aangemaakt.|
 | 11-10-2018 | 2 uur 00 min  |   Thuis    | App: events implementatie volgens spec-V2; inclusief reactive adapter + layout. En bugfixes. |
 | 12-10-2018 | 100 min       | Lokaal 107 | Server: begonnen aan events implementatie. Docs: visio tekening gemaakt van serialisatie. |
-| 14-10-2018 | 2 uur 00 min  |   Thuis    | Server: Events; get en create functies af + bugfix voor eventId's.
+| 14-10-2018 | 2 uur 00 min  |   Thuis    | Server: Events; get en create functies af + bugfix voor eventId's. |
+| 15-10-2018 | 5 uur 00 min  |   Thuis    | Server: contacten resource + db impl. App: contacten recycler met delete functie. Server&App: NetArrayList<> met serialisatie. |
 
 Koen
 
