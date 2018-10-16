@@ -22,6 +22,8 @@ Matthijs
 | 12-10-2018 | 100 min       | Lokaal 107 | Server: begonnen aan events implementatie. Docs: visio tekening gemaakt van serialisatie. |
 | 14-10-2018 | 2 uur 00 min  |   Thuis    | Server: Events; get en create functies af + bugfix voor eventId's. |
 | 15-10-2018 | 5 uur 00 min  |   Thuis    | Server: contacten resource + db impl. App: contacten recycler met delete functie. Server&App: NetArrayList<> met serialisatie. |
+| 16-10-2018 | 50 min        | Lokaal 107 | Visio tekening maken van de app lifecycle |
+| 16-10-2018 | 4 uur 30 min  |   Thuis    | App: ondersteuning voor het maken van eigen events incl. dialogs. Server: user events  opslaan in database + bump 1.02-RELEASE |
 
 Koen
 
