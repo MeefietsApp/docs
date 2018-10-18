@@ -24,6 +24,7 @@ Matthijs
 | 15-10-2018 | 5 uur 00 min  |   Thuis    | Server: contacten resource + db impl. App: contacten recycler met delete functie. Server&App: NetArrayList<> met serialisatie. |
 | 16-10-2018 | 50 min        | Lokaal 107 | Visio tekening maken van de app lifecycle |
 | 16-10-2018 | 4 uur 30 min  |   Thuis    | App: ondersteuning voor het maken van eigen events incl. dialogs. Server: user events  opslaan in database + bump 1.02-RELEASE |
+| 18-10-2018 | 7 uur 0 min.  | Mediatheek | PWS dag. Begonnen met word document, meer deelonderwerpen, visio-tekeningen, etc. |
 
 Koen
 
