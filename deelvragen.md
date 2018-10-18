@@ -5,7 +5,7 @@
 
 - Wat is een app? http://home.kpn.nl/a.g.moes/
 - Wat kost het gemiddeld om een app te laten maken?
-- 
+- Hoe voldoe je aan de privacywet?
  
 - Wat heb je nodig om een android app te maken?
 - Hoe hebben wij de app gemaakt?
