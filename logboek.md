@@ -26,6 +26,7 @@ Matthijs
 | 16-10-2018 | 4 uur 30 min  |   Thuis    | App: ondersteuning voor het maken van eigen events incl. dialogs. Server: user events  opslaan in database + bump 1.02-RELEASE |
 | 18-10-2018 | 7 uur 0 min.  | Mediatheek | PWS dag. Begonnen met word document, meer deelonderwerpen, visio-tekeningen, etc. |
 | 21-10-2018 | 2 uur 0 min   |   Thuis    | App: FloatingActionButton en dialog voor het toevoegen van contacten. Server: bugfix m.b.t. user contacten toevoegen |
+| 22-10-2018 | 2 uur 15 min  |   Thuis    | Server: jetty research + implementatie HTTPS SSL/TLS, bump naar 1.04-RC2 |
 
 Koen
 
