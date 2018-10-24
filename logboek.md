@@ -17,7 +17,7 @@ Matthijs
 | 08-10-2018 | 4 uur 30 min  |   Thuis    | App: Registreren en verificatie systeem gemaakt met bijhorende activities. Server: hotfix met Posix FS permissies. |
 | 09-10-2018 | 4 uur 00 min  |   Thuis    | App: onthoud gebruiker's credentials + auto login, forceer wit thema, hash wachtwoord bij registreren en inloggen, foutmelding als server onbereikbaar is, FeedActivity fragment implementatie met navigation bar. |
 | 09-10-2018 | 30 min        | Lokaal 107 | Word-document opstellen met benodigde koppen, etc. |
-| 10-10-2018 | 5 uur 30 min  |   Thuis    | App: accounts tab, onderzoeken waarom de serialisatie niet werkt + oplossen van dit probleem. (zie deelonderwerp) Ook evenementen recycler/cardview in HomeFragment met handige adapter. App&server: event classes aangemaakt.|
+| 10-10-2018 | 5 uur 30 min  |   Thuis    | App: accounts tab, onderzoeken waarom de serialisatie niet werkt + oplossen van dit probleem. (zie deelonderwerp) Ook evenementen recycler/cardview in HomeFragment met handige adapter. App&server: event classes aangemaakt. |
 | 11-10-2018 | 2 uur 00 min  |   Thuis    | App: events implementatie volgens spec-V2; inclusief reactive adapter + layout. En bugfixes. |
 | 12-10-2018 | 100 min       | Lokaal 107 | Server: begonnen aan events implementatie. Docs: visio tekening gemaakt van serialisatie. |
 | 14-10-2018 | 2 uur 00 min  |   Thuis    | Server: Events; get en create functies af + bugfix voor eventId's. |
@@ -27,6 +27,7 @@ Matthijs
 | 18-10-2018 | 7 uur 0 min.  | Mediatheek | PWS dag. Begonnen met word document, meer deelonderwerpen, visio-tekeningen, etc. |
 | 21-10-2018 | 2 uur 0 min   |   Thuis    | App: FloatingActionButton en dialog voor het toevoegen van contacten. Server: bugfix m.b.t. user contacten toevoegen |
 | 22-10-2018 | 2 uur 15 min  |   Thuis    | Server: jetty research + implementatie HTTPS SSL/TLS, bump naar 1.04-RC2 |
+| 24-10-2018 | 3 uur 00 min  |   Thuis    | App: voorbereiding voor Google Play Store beta-release. Server: offici"ele HTTPS certificaten voor de server verkrijgen + handig scriptje. |
 
 Koen
 
