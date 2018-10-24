@@ -27,7 +27,7 @@ Matthijs
 | 18-10-2018 | 7 uur 0 min.  | Mediatheek | PWS dag. Begonnen met word document, meer deelonderwerpen, visio-tekeningen, etc. |
 | 21-10-2018 | 2 uur 0 min   |   Thuis    | App: FloatingActionButton en dialog voor het toevoegen van contacten. Server: bugfix m.b.t. user contacten toevoegen |
 | 22-10-2018 | 2 uur 15 min  |   Thuis    | Server: jetty research + implementatie HTTPS SSL/TLS, bump naar 1.04-RC2 |
-| 24-10-2018 | 3 uur 00 min  |   Thuis    | App: voorbereiding voor Google Play Store beta-release. Server: offici"ele HTTPS certificaten voor de server verkrijgen + handig scriptje. |
+| 24-10-2018 | 5 uur 00 min  |   Thuis    | App: voorbereiding voor Google Play Store beta-release + tijdelijk logo + contacten uitnodigen aan evenementen. Server: offici"ele HTTPS certificaten voor de server verkrijgen + handig scriptje. |
 
 Koen
 
